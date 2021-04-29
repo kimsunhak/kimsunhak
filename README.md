@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimsunhak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kimsunhak's Github Stats">
 
-[![kimsunhak 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=kimsunhak&layout=compact)](https://github.com/kimsunhak/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsunhak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
