@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimsunhak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2DB7F3&icon_color=2DB7F3&text_color=333&bg_color=fffefe" alt="kimsunhak's Github Stats">
 
-![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsunhak)
+![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsunhak&layout=compact)
 
 </br>
 
