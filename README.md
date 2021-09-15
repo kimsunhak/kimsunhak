@@ -1,4 +1,5 @@
 #### 김 선 학 (BackEnd Developer)
+### 산업기능요원 (현역 준비중 ‼️)
 ### Languages and Tools 🛠
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
